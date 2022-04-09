@@ -1,4 +1,4 @@
-<h1>Добро пожаловать!</h1>
-<p><img src="/images/office-small.jpg" align="left">
-    <a href="/">название компании</a> — команда первоклассных специалистов в области разработки веб-сайтов с многолетним опытом...
-</p>
+<div class="pictire_div">
+    <img src="/img/pexels-anna-shvets-4588065.jpg" alt="">
+    <img src="/img/GD.jpg" alt="">
+</div>
